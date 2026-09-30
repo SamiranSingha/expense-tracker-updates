@@ -1,13 +1,11 @@
 {
-  "version": "1.0.0",
-  "buildNumber": 1,
-  "apkUrl": "https://github.com/SamiranSingha/expense-tracker-updates/releases/download/v1.0.0/app-arm64-v8a-release.apk",
+  "version": "1.0.1",
+  "buildNumber": 2,
+  "apkUrl": "https://github.com/SamiranSingha/expense-tracker-updates/releases/download/v1.0.1/app-arm64-v8a-release.apk",
   "releaseNotes": [
-    "Initial release",
-    "Firebase authentication",
-    "Expense tracking",
-    "Budget management",
-    "Backup and restore"
+    "Improved in-app update checking",
+    "Improved update information parsing",
+    "General improvements and bug fixes"
   ],
   "forceUpdate": false
 }
